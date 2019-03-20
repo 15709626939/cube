@@ -1,0 +1,17 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armJET.dll" 
+
+"F:\智能车软件\46.LCD_摄像头_多功能调试上位机（一维数组）\Prj\IAR\MK66FX18_Release\Exe\vcan_Kinetis.out" 
+
+--plugin="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armbat.dll" 
+
+--device_macro="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="F:\智能车软件\46.LCD_摄像头_多功能调试上位机（一维数组）\Prj\IAR\config files\vcan_K66.board" 
+
+
+
+
