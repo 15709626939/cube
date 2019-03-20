@@ -32,7 +32,7 @@ void main(void)
 
     while(1)
     {
-        if(shexiangtou_flag == 1)
+        if(camera == 1)
         {
             if(ov7725_eagle_img_flag == IMG_FINISH)
             {
