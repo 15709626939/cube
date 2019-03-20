@@ -22,6 +22,7 @@ void main(void)
       ad_init(); //ad初始化   
       AD_MAX_MIN(); //获取最大最小值
     }          
+    printf("system init success11\n");
     duoji_init();     //舵机初始化
     dianji_init();    //电机初始化
     
